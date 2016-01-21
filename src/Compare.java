@@ -30,7 +30,9 @@ public class Compare
 	private static void compareDirs(String srcBuildDirPath, String dstBuildDirPath)
 	{
 		// Read all file in the directories
-		
+		/*
+		 * TODO : implement it in such a way that files present on dst but not in src are also identified.
+		 */
 		File srcBuildDir = new File(srcBuildDirPath);
 		
 		for(File file : srcBuildDir.listFiles())

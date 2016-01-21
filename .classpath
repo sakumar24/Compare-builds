@@ -3,5 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="D:/Setups/zip4j_1.3.2/zip4j_1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Setups/org.apache.commons.io.jar/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="D:/Setups/xmlunit-core-2.0.0-alpha-03.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
